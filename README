@@ -1,0 +1,12 @@
+I am playing with automated substitution cypher solving.
+
+The current iteration is pretty weak.
+
+Use like this:
+
+./solve.py corpora/wikitest-rot13.txt
+
+letterfreq.csv taken from Cornell univ math explorer project
+http://en.wikipedia.org/wiki/Letter_frequency
+
+2010 Todd Troxell <ttroxell@debian.org>
